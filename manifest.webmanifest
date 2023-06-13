@@ -4,8 +4,8 @@
     "display": "standalone",
     "scope": "/index.html",
     "start_url": "/",
-    "name": "Life Tidy",
-    "short_name": "Life Tidy",
+    "name": "LifeTidy",
+    "short_name": "LifeTidy",
     "description": "ORGANIZE SUA ROTINA COM O LIFETIDY",
     "icons": [
         {
