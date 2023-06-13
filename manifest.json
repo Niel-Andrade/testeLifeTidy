@@ -3,7 +3,7 @@
     "background_color": "#0a3950",
     "display": "standalone",
     "scope": "/index.html",
-    "start_url": "/",
+    "start_url": "/index.html",
     "name": "LifeTidy",
     "short_name": "LifeTidy",
     "description": "ORGANIZE SUA ROTINA COM O LIFETIDY",
